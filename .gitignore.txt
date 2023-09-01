@@ -1,1 +1,1 @@
-*.txt
+hola.txt
